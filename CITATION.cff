@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite them as below."
+title: "Scripts for converting legacy dictionary files into structured data and LaTeX (Hatoma dictionary)"
+type: software
+authors:
+  - family-names: "Nakagawa"
+    given-names: "Natsuko"
+    affiliation: "Kyushu University"
+    orcid: "https://orcid.org/0000-0001-5243-5186"
+license: CC0-1.0
+# Add after the Zenodo record is published:
+# doi: "10.5281/zenodo.XXXXXXX"
+# version: "1.0.0"
+# date-released: "2026-MM-DD"
+# preferred-citation / references: the LD&C paper (volume, pages, DOI)
