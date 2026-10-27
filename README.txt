@@ -101,10 +101,10 @@ To_LaTeXg.py  output_g_1.txt > output.txt
     To_LaTeX2.py is the later version: it handles entries with more than one
     part of speech (\entrym) and writes one .tex file per section of the
     dictionary (1.tex, 2.tex, ...) in the current directory.
-    To_LaTeXg.py: [please describe the purpose of this version]
+    To_LaTeXg.py
     The LaTeX macros (\entry, \entrym, \Mn, \PoS, \ipa, ...) are defined in the
     LaTeX template, not in these scripts.
-    \entry takes five arguments: [please confirm: headword, IPA, a field
+    \entry takes five arguments: [headword, IPA, a field
     printed in 【 】 (empty for single-PoS entries in To_LaTeX2.py),
     part of speech, description].
 
