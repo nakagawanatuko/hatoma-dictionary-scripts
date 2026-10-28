@@ -104,9 +104,7 @@ To_LaTeXg.py  output_g_1.txt > output.txt
     To_LaTeXg.py
     The LaTeX macros (\entry, \entrym, \Mn, \PoS, \ipa, ...) are defined in the
     LaTeX template, not in these scripts.
-    \entry takes five arguments: [headword, IPA, a field
-    printed in 【 】 (empty for single-PoS entries in To_LaTeX2.py),
-    part of speech, description].
+    \entry takes five arguments: headword, IPA, part-of-speech number (empty for single-PoS entries in To_LaTeX2.py), part of speech (printed in 【 】), and description. The headword also becomes the running page header.
 
 [Transcription]
 
